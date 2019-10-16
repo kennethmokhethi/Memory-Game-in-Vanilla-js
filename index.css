@@ -1,0 +1,5 @@
+/* Removign the padding and margin of the page */
+* {
+  margin: 0;
+  padding: 0;
+}
